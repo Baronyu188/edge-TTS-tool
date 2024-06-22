@@ -3,6 +3,10 @@ Edge-TTS-tool：
 
 这是一个基于Python edge-tts api（tts=text to speech）开发的文字转语音工具，他可以将一段文字变成高质量的音频。
 
+感谢rany2的api https://github.com/rany2/edge-tts
+
+也感谢smallnew666给我提供了灵感 https://github.com/smallnew666/edge-tts
+
 作者不希望该作品被任何人用于任何经济用途，例如售卖此软件以谋取利益，将此软件放上某些网站或者对该软件进行改造，植入病毒等。请各位用户在用完该软件后的24小时之内将该软件删除，该软件仅用于学习用途或者是教育用途。
 
 本作品创立的初心是为了方便教师学生还有一些有相应需求的人进行语音合成。
