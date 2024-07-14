@@ -5,7 +5,7 @@ Edge-TTS-tool：
 
 感谢rany2的api https://github.com/rany2/edge-tts
 
-也感谢smallnew666给我提供了灵感 https://github.com/smallnew666/edge-tts
+也感谢smallnew666对代码的开源 https://github.com/smallnew666/edge-tts
 
 作者不希望该作品被任何人用于任何经济用途，例如售卖此软件以谋取利益，将此软件放上某些网站或者对该软件进行改造，植入病毒等。请各位用户在用完该软件后的24小时之内将该软件删除，该软件仅用于学习用途或者是教育用途。
 
