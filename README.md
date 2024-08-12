@@ -1,5 +1,7 @@
 Edge-TTS-tool：
 
+我的哔哩哔哩链接：https://www.bilibili.com/video/BV14teFeWEWE/?vd_source=bf2a9d665b5e8e0592750aaf37012811
+
 这是一个基于Python edge-tts api（tts = text to speech）开发的文字转语音GUI工具，他可以将一段文字变成高质量的音频。
 
 感谢rany2的api （https://github.com/rany2/edge-tts）
