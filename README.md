@@ -12,9 +12,8 @@ Edge-TTS-tool：
 
 本作品创立的初心是为了方便教师学生还有一些有相应需求的人进行语音合成。
 
-下面是Mac版的用户界面（和window版本）大同小异：
-
-![image](https://github.com/user-attachments/assets/2763e469-0784-47c5-b3e9-d60bf7e1e581)
+下面是Mac 1.9.4（preview）版的用户界面（和window版本）大同小异：
+<img width="1024" alt="22" src="https://github.com/user-attachments/assets/2ce34b9f-1eec-4fed-b857-3c43b58d1fdc">
 
 备注：
 
