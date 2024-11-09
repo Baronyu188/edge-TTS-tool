@@ -1,4 +1,4 @@
-Edge-TTS-tool：
+**Edge-TTS-tool：**
 
 我的哔哩哔哩链接：https://www.bilibili.com/video/BV14teFeWEWE/?vd_source=bf2a9d665b5e8e0592750aaf37012811
 
@@ -23,7 +23,7 @@ Edge-TTS-tool：
 
 3、 如有意见，可以发邮件到yu3179699@hotmail.com。 作者会尽量及时浏览您的邮件并酌情对软件进行bug修复功能添加。
                                                                      
-该软件主要有以下几个优点：
+**该软件主要有以下几个优点：**
 1、界面简单易于使用；
 
 2、功能齐全并且不需要第三方的服务器，可以直接将音频下载到本地并且还带有打开Word文档及text文档的功能，支持音频的拼接；
